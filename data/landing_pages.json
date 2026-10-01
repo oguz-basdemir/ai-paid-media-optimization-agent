@@ -1,0 +1,182 @@
+[
+  {
+    "landing_page": "https://demo.example/g01",
+    "campaign_id": "G01",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/g02",
+    "campaign_id": "G02",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/g03",
+    "campaign_id": "G03",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Enterprise payroll automation",
+    "headline": "Simplify payroll today",
+    "cta": "Buy now",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/g04",
+    "campaign_id": "G04",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/m01",
+    "campaign_id": "M01",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/m02",
+    "campaign_id": "M02",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/m03",
+    "campaign_id": "M03",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Enterprise payroll automation",
+    "headline": "Simplify payroll today",
+    "cta": "Buy now",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/m04",
+    "campaign_id": "M04",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/l01",
+    "campaign_id": "L01",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/l02",
+    "campaign_id": "L02",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/l03",
+    "campaign_id": "L03",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Enterprise payroll automation",
+    "headline": "Simplify payroll today",
+    "cta": "Buy now",
+    "goal": "demo",
+    "synthetic": true
+  },
+  {
+    "landing_page": "https://demo.example/l04",
+    "campaign_id": "L04",
+    "ad_message": "Analytics software for revenue teams. Book a product demo.",
+    "keywords": [
+      "analytics",
+      "revenue",
+      "demo"
+    ],
+    "proposition": "Revenue analytics software",
+    "headline": "Analytics for revenue teams",
+    "cta": "Book a demo",
+    "goal": "demo",
+    "synthetic": true
+  }
+]

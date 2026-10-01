@@ -1,0 +1,2 @@
+# Reproduce the tested runtime. Developer extras are in pyproject.toml.
+-r requirements.lock

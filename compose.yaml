@@ -1,0 +1,27 @@
+services:
+  api:
+    build: .
+    ports: ["127.0.0.1:8000:8000"]
+    environment:
+      DB_PATH: /app/runtime/reviews.sqlite
+      ENABLE_AI: ${ENABLE_AI:-false}
+      OPENAI_BASE_URL: ${OPENAI_BASE_URL:-https://api.openai.com/v1}
+      OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4.1-mini}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+    volumes: ["reviews:/app/runtime"]
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+  dashboard:
+    build: .
+    command: ["streamlit", "run", "streamlit_app.py", "--server.address", "0.0.0.0"]
+    ports: ["127.0.0.1:8501:8501"]
+    environment:
+      API_URL: http://api:8000
+    depends_on:
+      api:
+        condition: service_healthy
+volumes:
+  reviews:

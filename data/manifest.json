@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "seed": 42,
+  "days": 84,
+  "rows": 2016,
+  "grain": "date \u00d7 platform \u00d7 campaign \u00d7 ad group \u00d7 creative \u00d7 audience \u00d7 landing page",
+  "currency": "USD",
+  "conversion": "synthetic demo lead",
+  "attribution": "mock 7-day click"
+}
